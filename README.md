@@ -13,7 +13,8 @@ DCL files are still easier to write, edit, and maintain as separate files during
 - Built with C# using Windows Forms.
 
 ## Screenshot
-<img width="325" height="226" alt="image" src="https://github.com/user-attachments/assets/b9106f4e-1d31-4cef-869b-bc2c473f7a6a" />
+<img width="325" height="226" alt="image" src="https://github.com/user-attachments/assets/a5129cab-5c28-4ff5-8391-6bd2a22db91f" />
+
 
 ## Requirements
 - Windows 10 or later
